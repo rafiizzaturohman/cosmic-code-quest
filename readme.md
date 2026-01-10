@@ -1,6 +1,6 @@
 # 🚀 CodeZathura – HTML & CSS Monopoly Game
 
-**CodeZathura** adalah game edukasi berbasis papan (monopoli) dengan tema petualangan luar angkasa ala *Zathura*.  
+**CodeZathura** adalah game edukasi berbasis papan (monopoli) dengan tema petualangan luar angkasa ala _Zathura_.  
 Game ini dirancang untuk membantu pemain mempelajari dan mengasah pemahaman **HTML dan CSS dasar** melalui gameplay interaktif, kompetitif, dan menyenangkan.
 
 ---
@@ -23,6 +23,7 @@ Game ini dirancang untuk membantu pemain mempelajari dan mengasah pemahaman **HT
 CodeZathura menggabungkan konsep **monopoli klasik** dengan **game edukasi coding**.
 
 Pemain akan:
+
 1. Melempar dadu dan bergerak di papan
 2. Menjawab pertanyaan HTML & CSS
 3. Mengumpulkan poin
@@ -47,6 +48,7 @@ Pemain akan:
 Terdapat **2 petak sudut bersilangan** yang berfungsi sebagai **Debug Room**.
 
 Jika pemain masuk:
+
 - Akan mendapatkan **1 atau 2 pertanyaan**
 - Penalti berdasarkan hasil jawaban:
   | Kondisi Jawaban | Penalti |
@@ -60,6 +62,7 @@ Jika pemain masuk:
 ## 🧠 Sistem Soal
 
 Materi yang diujikan:
+
 - HTML:
   - Tag dasar
   - Struktur dokumen
@@ -72,6 +75,7 @@ Materi yang diujikan:
   - Styling sederhana
 
 Tipe soal:
+
 - Pilihan ganda
 - Benar / Salah
 - Identifikasi error kode
@@ -127,7 +131,8 @@ Salin kode
 1. Clone repository ini:
    ```bash
    git clone https://github.com/username/CodeZathura.git
-Buka folder project
+   Buka folder project
+   ```
 
 Jalankan file index.html di browser
 
@@ -154,7 +159,7 @@ Melatih logika, strategi, dan konsistensi belajar
 🧩 Drag & Drop code challenge
 
 👨‍💻 Dibuat Oleh
-Nama: (Isi nama kamu)
+Nama: Gluoin Code
 Tujuan: Game Edukasi / Tugas Proyek / Pembelajaran Web Dasar
 
 ⭐ Lisensi
