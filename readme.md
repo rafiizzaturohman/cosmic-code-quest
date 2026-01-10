@@ -115,7 +115,7 @@ Tanpa framework tambahan agar mudah dipelajari dan dikembangkan.
 
 ## 📁 Struktur Folder
 
-📦 CodeZathura
+📦 Cosmic-Code-Quest
 ├── index.html
 ├── style.css
 ├── script.js
