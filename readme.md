@@ -160,6 +160,7 @@ Melatih logika, strategi, dan konsistensi belajar
 
 👨‍💻 Dibuat Oleh
 Nama: Gluoin Code
+
 Tujuan: Game Edukasi / Tugas Proyek / Pembelajaran Web Dasar
 
 ⭐ Lisensi
