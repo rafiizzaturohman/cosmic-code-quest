@@ -1,4 +1,4 @@
-# 🚀 CodeZathura – HTML & CSS Monopoly Game
+# 🚀 Cosmic Code Quest – HTML & CSS Monopoly Game
 
 **CodeZathura** adalah game edukasi berbasis papan (monopoli) dengan tema petualangan luar angkasa ala _Zathura_.  
 Game ini dirancang untuk membantu pemain mempelajari dan mengasah pemahaman **HTML dan CSS dasar** melalui gameplay interaktif, kompetitif, dan menyenangkan.
