@@ -163,7 +163,7 @@ Atau Kamu bisa langsung klik link berikut: https://cosmic-code-quest.vercel.app/
 
 Nama: Gluoin Code
 
-Tujuan: Game Edukasi / Tugas Proyek / Pembelajaran Web Dasar
+Tujuan: Game Edukasi / Pembelajaran Web Dasar
 
 ⭐ Lisensi
 Project ini bebas digunakan untuk keperluan pembelajaran dan non-komersial
