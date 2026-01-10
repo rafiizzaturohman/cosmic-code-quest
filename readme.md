@@ -1,6 +1,6 @@
 # 🚀 Cosmic Code Quest – HTML & CSS Monopoly Game
 
-**CodeZathura** adalah game edukasi berbasis papan (monopoli) dengan tema petualangan luar angkasa ala _Zathura_.  
+**Cosmic Code Quest** adalah game edukasi berbasis papan (monopoli) dengan tema petualangan luar angkasa ala _Zathura_.  
 Game ini dirancang untuk membantu pemain mempelajari dan mengasah pemahaman **HTML dan CSS dasar** melalui gameplay interaktif, kompetitif, dan menyenangkan.
 
 ---
@@ -20,7 +20,7 @@ Game ini dirancang untuk membantu pemain mempelajari dan mengasah pemahaman **HT
 
 ## 🧩 Konsep Permainan
 
-CodeZathura menggabungkan konsep **monopoli klasik** dengan **game edukasi coding**.
+Cosmic Code Quest menggabungkan konsep **monopoli klasik** dengan **game edukasi coding**.
 
 Pemain akan:
 
@@ -127,7 +127,7 @@ Tanpa framework tambahan agar mudah dipelajari dan dikembangkan.
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/CodeZathura.git
+   git clone https://github.com/username/Cosmic Code Quest.git
    Buka folder project
    ```
 
