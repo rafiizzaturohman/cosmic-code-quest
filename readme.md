@@ -131,19 +131,19 @@ Tanpa framework tambahan agar mudah dipelajari dan dikembangkan.
    Buka folder project
    ```
 
-Jalankan file index.html di browser
+- Jalankan file index.html di browser
 
-Masukkan jumlah pemain & nama
+- Masukkan jumlah pemain & nama
 
-Mulai bermain 🎉
+- Mulai bermain 🎉
 
 🎯 Tujuan Edukasi
 
-Membantu mahasiswa/siswa memahami HTML & CSS
+- Membantu mahasiswa/siswa memahami HTML & CSS
 
-Membuat pembelajaran coding lebih interaktif
+- Membuat pembelajaran coding lebih interaktif
 
-Melatih logika, strategi, dan konsistensi belajar
+- Melatih logika, strategi, dan konsistensi belajar
 
 📌 Pengembangan Selanjutnya
 
