@@ -137,6 +137,8 @@ Tanpa framework tambahan agar mudah dipelajari dan dikembangkan.
 
 - Mulai bermain 🎉
 
+Atau Kamu bisa langsung klik link berikut: https://cosmic-code-quest.vercel.app/
+
 🎯 Tujuan Edukasi
 
 - Membantu mahasiswa/siswa memahami HTML & CSS
