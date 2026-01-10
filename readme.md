@@ -158,7 +158,9 @@ Melatih logika, strategi, dan konsistensi belajar
 
 🧩 Drag & Drop code challenge
 
-👨‍💻 Dibuat Oleh: Gluoin Code
+👨‍💻 Dibuat Oleh
+
+Nama: Gluoin Code
 
 Tujuan: Game Edukasi / Tugas Proyek / Pembelajaran Web Dasar
 
