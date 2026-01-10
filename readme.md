@@ -121,9 +121,6 @@ Tanpa framework tambahan agar mudah dipelajari dan dikembangkan.
 ├── script.js
 └── README.md
 
-yaml
-Salin kode
-
 ---
 
 ## ▶️ Cara Menjalankan Game
@@ -141,6 +138,7 @@ Masukkan jumlah pemain & nama
 Mulai bermain 🎉
 
 🎯 Tujuan Edukasi
+
 Membantu mahasiswa/siswa memahami HTML & CSS
 
 Membuat pembelajaran coding lebih interaktif
@@ -148,6 +146,7 @@ Membuat pembelajaran coding lebih interaktif
 Melatih logika, strategi, dan konsistensi belajar
 
 📌 Pengembangan Selanjutnya
+
 🔊 Sound effect & background music
 
 🎨 Animasi & visual efek
