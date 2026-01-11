@@ -2,7 +2,7 @@
 const defaultConfig = {
   game_title: "Cosmic Code Quest",
   world_unlock_points: "50",
-  max_rounds: "15",
+  max_rounds: "20",
   primary_color: "#8b5cf6",
   secondary_color: "#1e1b4b",
   text_color: "#e0e7ff",
@@ -62,7 +62,7 @@ const worlds = [
     desc: "Kuasai styling dengan CSS",
     emoji: "🎨",
     difficulty: "medium",
-    unlockPoints: 50,
+    unlockPoints: 200, // ✅ Medium = 200 pts
     bossTopic: "CSS Selectors & Specificity",
     color: "#3b82f6",
   },
@@ -72,7 +72,7 @@ const worlds = [
     desc: "Master Flexbox & Grid",
     emoji: "🧩",
     difficulty: "hard",
-    unlockPoints: 100,
+    unlockPoints: 400, // ✅ Hard = 400 pts
     bossTopic: "Flexbox & Grid Layout",
     color: "#8b5cf6",
   },
@@ -1848,7 +1848,7 @@ function startWorld(worldId) {
   renderBoard();
   renderPlayerScores();
   updateCurrentPlayerDisplay();
-  addLog(`������ Memasuki ${gameState.currentWorld.name}`);
+  addLog(`Memasuki ${gameState.currentWorld.name}`);
 }
 
 function backToWorldSelect() {
@@ -2628,9 +2628,17 @@ function completeWorld() {
 
     // Check unlock condition
     const totalScore = gameState.players.reduce((sum, p) => sum + p.score, 0);
-    const unlockPoints = parseInt(config.world_unlock_points) || 50;
-    if (totalScore >= unlockPoints || highScore >= unlockPoints) {
+    const nextWorld = worlds[currentWorldIndex + 1];
+    const requiredPoints = nextWorld.unlockPoints;
+
+    if (totalScore >= requiredPoints || highScore >= requiredPoints) {
       gameState.worldProgress[nextWorldId].unlocked = true;
+      showToast(`🌍 World ${nextWorld.name} terbuka!`, "success");
+    } else {
+      showToast(
+        `🔒 Butuh ${requiredPoints} poin untuk membuka ${nextWorld.name}`,
+        "warning"
+      );
     }
   }
 
@@ -2711,7 +2719,7 @@ async function onConfigChange(newConfig) {
       config.game_title || defaultConfig.game_title;
 
   if (gameState.players.length > 0) {
-    gameState.maxRounds = parseInt(config.max_rounds) || 15;
+    gameState.maxRounds = parseInt(config.max_rounds) || 20;
     document.getElementById("max-round-display").textContent =
       gameState.maxRounds;
   }
