@@ -62,7 +62,7 @@ const worlds = [
     desc: "Kuasai styling dengan CSS",
     emoji: "🎨",
     difficulty: "medium",
-    unlockPoints: 200, // ✅ Medium = 200 pts
+    unlockPoints: 400,
     bossTopic: "CSS Selectors & Specificity",
     color: "#3b82f6",
   },
@@ -72,7 +72,7 @@ const worlds = [
     desc: "Master Flexbox & Grid",
     emoji: "🧩",
     difficulty: "hard",
-    unlockPoints: 400, // ✅ Hard = 400 pts
+    unlockPoints: 800,
     bossTopic: "Flexbox & Grid Layout",
     color: "#8b5cf6",
   },
